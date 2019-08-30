@@ -10,6 +10,10 @@ mvn clean install -DskipTests
 
 ## deploy IoTDB
 
+install maven 3.1
+
+install jdk1.8
+
 ```
 cd incubator-iotdb
 mvn clean package -DskipTests
